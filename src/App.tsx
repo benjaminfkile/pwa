@@ -6,7 +6,7 @@ function App() {//bump
   return (
     <div className="App">
       <p>first pwa</p>
-      <p>v1</p>
+      <p>v2</p>
     </div>
   );
 }
