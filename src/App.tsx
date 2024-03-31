@@ -6,7 +6,8 @@ function App() {//bump
   return (
     <div className="App">
       <p>first pwa</p>
-      <p>v2</p>
+      <p>v3</p>
+      <p>moobars foobars</p>
     </div>
   );
 }
